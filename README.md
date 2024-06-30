@@ -1,4 +1,4 @@
-# MyToken Solidity Smart Contract
+# Error Handling Solidity Smart Contract
 
 ## Overview
 
